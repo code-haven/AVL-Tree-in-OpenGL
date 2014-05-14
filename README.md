@@ -1,9 +1,9 @@
-# An implementation of an AVL tree using OpenGL/GLUT library in C.
+# AVL Tree Implementation in OpenGL
 
 ### **Current Features**
 
-####1. Insertion
-At first, a normal BST insertion is done. Then the node is balanced using an appropriate type of Rotation(s) until the node is balanced.
+####1. Insertion of a Node
+Takes input from the user and performs a normal BST insertion. Then the node is balanced using appropriate type(s) of Rotation(s) until the node is balanced.
 
 ### **ToDo**
 
@@ -14,5 +14,5 @@ At first, a normal BST insertion is done. Then the node is balanced using an app
 
 ### **Contributers**
 
-Abhinav I(abhinav.qd@gmail.com)
-Dhananjay Muddappa(dhananjaymuddappa@gmail.com)
+- Abhinav I(abhinav.qd@gmail.com)
+- Dhananjay Muddappa(dhananjaymuddappa@gmail.com)
